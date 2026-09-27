@@ -1,0 +1,12 @@
+# ComfyUI 及流水线依赖
+comfyui
+
+# 审核与运动指标分析
+opencv-python
+numpy
+
+# 数据 JSON / CSV 处理
+pandas
+
+# 批量生成调度
+requests
